@@ -1,0 +1,2 @@
+# springboot-archetype
+kubejv项目基于springboot的archetype
